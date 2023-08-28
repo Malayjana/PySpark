@@ -1,0 +1,28 @@
+https://us01st-cf.zoom.us/web_client/6orpgrb/html/externalLinkPage.html?ref=https://changhsinlee.com/install-pyspark-windows-jupyter/
+
+https://us01st-cf.zoom.us/web_client/6orpgrb/html/externalLinkPage.html?ref=https://youtu.be/Rv4NOAn2m-g
+
+
+https://us01st-cf.zoom.us/web_client/6orpgrb/html/externalLinkPage.html?ref=https://sparkbyexamples.com/pyspark-tutorial
+
+
+
+ Make predictions 
+predictions = model.transform(dataset)
+from pyspark.ml.evaluation import ClusteringEvaluator
+# Evaluate clustering by computing Silhouette score
+evaluator = ClusteringEvaluator()
+silhouette = evaluator.evaluate(predictions)
+print("Silhouette with squared euclidean distance = " + str(silhouette))
+
+
+
+https://us01st-cf.zoom.us/web_client/6orpgrb/html/externalLinkPage.html?ref=https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa
+
+
+
+
+
+E
+https://phoenixnap.com/kb/apache-hadoop-architecture-explained
+https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.4/hadoop-3.3.4.tar.gz
